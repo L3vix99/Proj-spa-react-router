@@ -1,0 +1,25 @@
+.productss h2 {
+    margin-bottom: 20px;
+
+
+}
+
+.productss ul {
+    list-style: square;
+    padding-left: 30px;
+}
+
+.productss li {
+    margin-bottom: 20px;
+
+}
+
+.productss a {
+    text-decoration: none;
+    color: #333;
+}
+
+.productss a:hover {
+    text-decoration: underline;
+    color: black;
+}
